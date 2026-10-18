@@ -1,0 +1,12 @@
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/bin/Debug/net7.0/EShop.Application.deps.json
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/bin/Debug/net7.0/EShop.Application.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/bin/Debug/net7.0/EShop.Application.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/EShop.Application.csproj.AssemblyReference.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/EShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/EShop.Application.AssemblyInfoInputs.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/EShop.Application.AssemblyInfo.cs
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/EShop.Application.csproj.CoreCompileInputs.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/EShop.Application.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/refint/EShop.Application.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/EShop.Application.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShop.Application/obj/Debug/net7.0/ref/EShop.Application.dll

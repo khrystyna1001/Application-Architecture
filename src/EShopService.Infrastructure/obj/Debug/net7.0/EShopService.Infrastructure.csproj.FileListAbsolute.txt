@@ -1,0 +1,17 @@
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/bin/Debug/net7.0/EShopService.Infrastructure.deps.json
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/bin/Debug/net7.0/EShopService.Infrastructure.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/bin/Debug/net7.0/EShopService.Infrastructure.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/bin/Debug/net7.0/EShopService.Application.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/bin/Debug/net7.0/EShopService.Domain.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/bin/Debug/net7.0/EShopService.Application.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/bin/Debug/net7.0/EShopService.Domain.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/EShopService.Infrastructure.csproj.AssemblyReference.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/EShopService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/EShopService.Infrastructure.AssemblyInfoInputs.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/EShopService.Infrastructure.AssemblyInfo.cs
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/EShopService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/EShopService.Infrastructure.csproj.CopyComplete
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/EShopService.Infrastructure.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/refint/EShopService.Infrastructure.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/EShopService.Infrastructure.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/Debug/net7.0/ref/EShopService.Infrastructure.dll

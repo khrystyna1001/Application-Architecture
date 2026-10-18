@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ROwp3cLEgZLMXuEtDSnolYfKZu1P0fHGIABvrJEQ7LE=",
+  "Source": "EShopService.API",
+  "BasePath": "_content/EShopService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

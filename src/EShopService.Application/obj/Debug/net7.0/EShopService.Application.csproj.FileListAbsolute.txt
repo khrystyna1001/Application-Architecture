@@ -1,0 +1,15 @@
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/bin/Debug/net7.0/EShopService.Application.deps.json
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/bin/Debug/net7.0/EShopService.Application.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/bin/Debug/net7.0/EShopService.Application.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/bin/Debug/net7.0/EShopService.Domain.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/bin/Debug/net7.0/EShopService.Domain.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/EShopService.Application.csproj.AssemblyReference.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/EShopService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/EShopService.Application.AssemblyInfoInputs.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/EShopService.Application.AssemblyInfo.cs
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/EShopService.Application.csproj.CoreCompileInputs.cache
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/EShopService.Application.csproj.CopyComplete
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/EShopService.Application.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/refint/EShopService.Application.dll
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/EShopService.Application.pdb
+/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/Debug/net7.0/ref/EShopService.Application.dll

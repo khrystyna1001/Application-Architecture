@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/test/EShopService.UnitTests/EShopService.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.API/EShopService.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.API/EShopService.API.csproj",
+        "projectName": "EShopService.API",
+        "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.API/EShopService.API.csproj",
+        "packagesPath": "/Users/khrystynka/.nuget/packages/",
+        "outputPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khrystynka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/EShopService.Application.csproj": {
+                "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/EShopService.Application.csproj"
+              },
+              "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/EShopService.Infrastructure.csproj": {
+                "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/EShopService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/EShopService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/EShopService.Application.csproj",
+        "projectName": "EShopService.Application",
+        "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/EShopService.Application.csproj",
+        "packagesPath": "/Users/khrystynka/.nuget/packages/",
+        "outputPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khrystynka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Domain/EShopService.Domain.csproj": {
+                "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Domain/EShopService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Domain/EShopService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Domain/EShopService.Domain.csproj",
+        "projectName": "EShopService.Domain",
+        "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Domain/EShopService.Domain.csproj",
+        "packagesPath": "/Users/khrystynka/.nuget/packages/",
+        "outputPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khrystynka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/EShopService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/EShopService.Infrastructure.csproj",
+        "projectName": "EShopService.Infrastructure",
+        "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/EShopService.Infrastructure.csproj",
+        "packagesPath": "/Users/khrystynka/.nuget/packages/",
+        "outputPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khrystynka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/EShopService.Application.csproj": {
+                "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.Application/EShopService.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/test/EShopService.UnitTests/EShopService.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/test/EShopService.UnitTests/EShopService.UnitTests.csproj",
+        "projectName": "EShopService.UnitTests",
+        "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/test/EShopService.UnitTests/EShopService.UnitTests.csproj",
+        "packagesPath": "/Users/khrystynka/.nuget/packages/",
+        "outputPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/test/EShopService.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/khrystynka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.API/EShopService.API.csproj": {
+                "projectPath": "/Users/khrystynka/Desktop/uni/Application_Architecture/LAB1/src/EShopService.API/EShopService.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

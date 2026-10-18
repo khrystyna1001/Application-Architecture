@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EShopService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "EShopService.Application": "1.0.0"
+        },
+        "runtime": {
+          "EShopService.Infrastructure.dll": {}
+        }
+      },
+      "EShopService.Application/1.0.0": {
+        "dependencies": {
+          "EShopService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EShopService.Application.dll": {}
+        }
+      },
+      "EShopService.Domain/1.0.0": {
+        "runtime": {
+          "EShopService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EShopService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EShopService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EShopService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
